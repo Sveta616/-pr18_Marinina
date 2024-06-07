@@ -1,0 +1,38 @@
+<resources>
+    <string name="app_name">pr18</string>
+    <string name="login">login</string>
+    <string name="passward">password</string>
+    <string name="save_load_b">Сохранить/Загрузить</string>
+    <string name="signin">Войти</string>
+    <string name="savelog">Сохраненный логин</string>
+    <string name="savepass">Сохраненный пароль</string>
+    <string name="chose_d">Выбор действия</string>
+    <string name="choose_mess">Выберите действие</string>
+    <string name="save_d">Сохранить</string>
+    <string name="success">Успешно</string>
+    <string name="save_messss">Введенные данные сохранены</string>
+    <string name="save_m">Введенные данные загружены</string>
+    <string name="etc">Продолжить</string>
+    <string name="load">Загрузить</string>
+    <string name="choose">Выбрать</string>
+    <string name="avt">Авторизоваться</string>
+    <string name="num1">+79126915678</string>
+    <string name="num2">+79129087564</string>
+    <string name="num3">+79967845639</string>
+    <string name="num4">+79126798579</string>
+    <string name="num5">+79967487490</string>
+    <string name="add">Отправить SMS</string>
+    <string name="person1">Леля</string>
+    <string name="person2">Даня</string>
+    <string name="person3">Матвей</string>
+    <string name="person4">Катя</string>
+    <string name="person5">Миша</string>
+    <string name="mess_neg">Вы не выбрали человека, которому хотите отправить сообщение или не ввели сообщение!</string>
+    <string-array name="numbers">
+        <item>Леля</item>
+        <item>Даня</item>
+        <item>Матвей</item>
+        <item>Катя</item>
+        <item>Миша</item>
+    </string-array>
+</resources>
